@@ -367,7 +367,7 @@ ul {
   }
   .spzn {
     flex-direction: column;
-    gap: 1rem;
+    gap: 2rem;
   }
   .gallery h3 {
     font-size: 2rem;
